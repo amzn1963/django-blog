@@ -4,7 +4,7 @@ backports.functools-lru-cache==1.5
 CodeIntel==0.9.3
 configparser==3.8.1
 cryptography==2.1.4
-Django==1.11.10
+Django==1.11.19
 enum34==1.1.6
 futures==3.3.0
 idna==2.6
@@ -25,8 +25,8 @@ pylint==1.9.5
 pylint-django==0.8.0
 pylint-flask==0.5
 pylint-plugin-utils==0.5
-pytz==2019.2
-pyxdg==0.25
+pytz==2018.7
+pyxdg==0.26
 SecretStorage==2.3.1
 singledispatch==3.4.0.3
 six==1.12.0
